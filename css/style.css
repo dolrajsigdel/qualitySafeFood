@@ -1,0 +1,27 @@
+form
+{
+ width:400px;
+}
+form ul
+{
+list-style-type:none;
+}
+form ul li
+{
+ margin:15px 0;
+}
+form label
+{
+ display: block;
+ font-size: 2em;
+}
+form input,textarea
+{
+ font-size:2em;
+ padding:5px;
+ border:#ccc 3px solid;
+ width:100%;
+}
+
+
+
